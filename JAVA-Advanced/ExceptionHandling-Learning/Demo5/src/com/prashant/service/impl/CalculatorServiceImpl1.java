@@ -7,7 +7,7 @@ import com.prashant.service.CalculatorService;
 
 public class CalculatorServiceImpl1 implements CalculatorService {
 	@Override
-	public void divide(Integer... array) /*throws IOException*/ {
+	public void divide(Integer... array) throws IOException {
 		int quotient = 0;
 		if (array[1] == 0) {
 			throw new IOException("Cannot divide " + array[0] + " by " + array[1]);
