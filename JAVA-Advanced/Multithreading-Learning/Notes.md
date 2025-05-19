@@ -6,5 +6,9 @@
 - callling start method, seperate threads will get executed.
 - main thread will wait for other threads to finish.
 
-### demo 02
+### Demo 02
 - creating thread using Runnable interface
+
+### Demo 03
+- Thread LifyCycle
+- methods in thread class. getName, setName, isAlive, getState etc.
