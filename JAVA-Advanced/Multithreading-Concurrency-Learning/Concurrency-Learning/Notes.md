@@ -6,3 +6,12 @@
 
 ### Demo 02
 - using Executers to create thread-pool of fixed number of Threads
+
+### Demo 03
+- using Executers to create thread-pool using newCachedThreadPool
+
+### Demo 04
+- Using Futures with Runnable
+
+### Demo 05
+- Using Futures with Callable
