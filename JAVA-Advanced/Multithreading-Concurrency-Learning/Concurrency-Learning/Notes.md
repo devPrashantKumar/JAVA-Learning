@@ -15,3 +15,10 @@
 
 ### Demo 05
 - Using Futures with Callable
+
+### Demo 06
+- Synchronization using Locks and AtomicClasses
+
+### Demo 07
+- Thread Scheduling using newScheduledThreadPool
+
