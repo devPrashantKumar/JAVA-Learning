@@ -12,3 +12,9 @@
 ### Demo 03
 - Thread LifyCycle
 - methods in thread class. getName, setName, isAlive, getState etc.
+
+### Demo 04
+- Race condition resolution using synchronized block.
+
+### Demo 05
+- Daemon Thread.
