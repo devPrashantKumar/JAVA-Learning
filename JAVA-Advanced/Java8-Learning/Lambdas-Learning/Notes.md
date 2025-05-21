@@ -3,3 +3,5 @@
 
 ### Demo 08
 - throw and handle checked and unchecked exception in lambda expression
+- predefined functional interface in java doesn't throw checked exception, to throw them we need to wrap them in unchacked exception.
+- 
