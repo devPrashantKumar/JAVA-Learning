@@ -25,7 +25,18 @@
 - reduce
 
 ### Demo 05
+- collect streams
+- collect to array
+- collect to list
+- collect to set
+- collect to map
+- GroupingBy (will return map)
+- PartitionBy (will return map)
 
 
 ### Demo 06
 - Streams are lazy in nature Demonstration
+
+### Demo 07
+- Parralel streams
+- there advatage and disadvantage
