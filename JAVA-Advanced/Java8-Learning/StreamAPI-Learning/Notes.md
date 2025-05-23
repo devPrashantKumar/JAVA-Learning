@@ -19,4 +19,13 @@
 - use of peek over forEach
 
 ### Demo 04
-- converting s
+- converting stream to single value
+- min, max
+- findFirst, findAny
+- reduce
+
+### Demo 05
+
+
+### Demo 06
+- Streams are lazy in nature Demonstration
