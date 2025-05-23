@@ -9,3 +9,7 @@
 
 ### Demo 03
 - Methods to generate Optional Value: of(), ofNullable(), empty()
+
+### Demo 04
+- operations on optional
+- Methods to manipulate Optional Value: filter(), map(), flatMap(), or(), stream()

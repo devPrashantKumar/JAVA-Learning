@@ -27,5 +27,4 @@ public class Demo3 {
 		Optional<String> optionalCity = optionalAddress.map(Address::getCity);
 		optionalCity.ifPresentOrElse(System.out::println, () -> System.out.println("No employee found"));
 	}
-
 }
