@@ -1,0 +1,2 @@
+ArrayList is not thread safe
+ArrayList is fail fast , it will give ConcurrentModificationException
