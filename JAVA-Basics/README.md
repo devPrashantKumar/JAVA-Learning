@@ -24,3 +24,14 @@
 
 ---
 ## Video 2 :
+- **Title:** 2. How Java Program Works and its 3 Important Components (JVM, JRE and JDK) with Example
+- **URL:** [Watch on YouTube](https://youtu.be/IoireaKRRFo?si=AzX2jMk1cWHblAom)
+
+### Topics Covered
+- What is JAVA
+- role of JVM
+- JVM, JRE and JDK roles and differences
+- JSE, JEE and JME
+- public static void main (){} method analysis
+
+---
