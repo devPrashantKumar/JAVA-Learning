@@ -35,3 +35,12 @@
 - public static void main (){} method analysis
 
 ---
+## Video 3 :
+- **Title:** 3. Quiz Question: Why only 1 Public Class in JAVA file
+- **URL:** [Watch on YouTube](https://youtu.be/ijEJJuIQdzY?si=UVHxCADQoigHQdjY)
+
+### Topics Covered
+- Why only 1 Public Class in JAVA file.
+- The rule is not a technical limitation — it’s a deliberate design choice to promote clarity, simplicity, and maintainability in Java projects.
+
+---
