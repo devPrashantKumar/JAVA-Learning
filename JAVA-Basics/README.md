@@ -52,4 +52,15 @@
 - Switch Statement and Switch Expression
 - return from switch expression using (case N -> and yield)
 - break and continue keyword
+
+---
+## Video 22 :
+- **Title:** 22. Collections in Java - Part1 | Java Collections Framework in depth
+- **URL:** [Watch on YouTube](https://www.youtube.com/watch?v=TT1-qsuHMXs&list=PL6W8uoQQ2c63f469AyV78np0rbxRFppkx&index=23)
+
+### Topics Covered
+- Iterable Interface and its methods
+- Collection Interface and its methods
+- Collection vs Collections
+
 ---
