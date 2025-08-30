@@ -44,3 +44,12 @@
 - The rule is not a technical limitation — it’s a deliberate design choice to promote clarity, simplicity, and maintainability in Java projects.
 
 ---
+## Video 21 :
+- **Title:** 21. Control Flow Statements in Java | Decision Making, Looping and Branching Statements
+- **URL:** [Watch on YouTube](https://www.youtube.com/watch?v=Z2B5CYMEWfc)
+
+### Topics Covered
+- Switch Statement and Switch Expression
+- return from switch expression using (case N -> and yield)
+- break and continue keyword
+---
