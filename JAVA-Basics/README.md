@@ -64,3 +64,16 @@
 - Collection vs Collections
 
 ---
+## Video 23 :
+- **Title:** 23. Collections in Java - Part2 | Comparator Vs Comparable | PriorityQueue
+- **URL:** [Watch on YouTube](https://www.youtube.com/watch?v=vVfZIWMEzMM&list=PL6W8uoQQ2c63f469AyV78np0rbxRFppkx&index=24)
+
+### Topics Covered
+- Queue Interface and its methods 
+  - add vs offer 
+  - remove vs poll
+  - element vs peek
+- Min/Max Priority Queue
+- Comparator and Comparable Interfaces
+
+---
