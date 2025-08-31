@@ -77,3 +77,17 @@
 - Comparator and Comparable Interfaces
 
 ---
+## Video 25 :
+- **Title:** 25. Collections in Java - Part4 | HashMap Internal Working in Java
+- **URL:** [Watch on YouTube](https://www.youtube.com/watch?v=VjYRxcbmEso&list=PL6W8uoQQ2c63f469AyV78np0rbxRFppkx&index=26)
+
+### Topics Covered
+- Difference b/w Map and Collection
+- Methods in Map Interface
+- Map.Entry Interface in Map
+- Internal Implementation and working of HashMap
+  - Load Factor
+  - Re-Hashing
+  - Treefy LinkedList (Red Black Balanced BST)
+
+---
