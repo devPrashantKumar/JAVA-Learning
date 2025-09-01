@@ -91,3 +91,19 @@
   - Treefy LinkedList (Red Black Balanced BST)
 
 ---
+## Video 28 :
+- **Title:** 28. Streams in Java8 | Collections in Java - Part7
+- **URL:** [Watch on YouTube](https://www.youtube.com/watch?v=nEno48RpDR4&list=PL6W8uoQQ2c63f469AyV78np0rbxRFppkx&index=29)
+
+### Topics Covered
+- What are Streams
+- Different ways to create Stream
+- Different Intermediate Operations on Streams
+  - filter, map, flatmap, distinct, sorted, peek, limit, skip
+  - mapToInt, mapToLong, mapToDouble
+  - IntStream, DoubleStream, LongStream
+- Different Terminal Operations on Stream
+  - forEach, toArray, reduce, collect, min, max, count, anyMatch, allMatch, noneMatch, findFirst, findAny
+- Parallel Stream
+
+---
