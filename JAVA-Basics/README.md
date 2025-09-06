@@ -107,3 +107,29 @@
 - Parallel Stream
 
 ---
+## Video 30 :
+- **Title:** 30. Thread Creation, Thread Lifecycle and Inter-Thread Communication | Multithreading in Java: Part2
+- **URL:** [Watch on YouTube](https://www.youtube.com/watch?v=AYiE7_loIsE&list=PL6W8uoQQ2c63f469AyV78np0rbxRFppkx&index=31)
+
+### Topics Covered
+- Ways to create Thread in JAVA
+  - extend Thread class
+  - implement Runnable interface
+- Hierarchy of Thread class
+- Thread Lifecycle
+  - New
+  - Runnable (Runnable and Running)
+  - Blocked
+  - Waiting
+  - Timed Waiting
+  - Terminated
+- Monitor/Intrinsic lock
+- use of wait and notifyAll in Inter-Thread communication
+
+---
+## Video 31 :
+- **Title:** 31. Thread Joining, Daemon Thread, Thread Priority | Multithreading in Java: Part3
+- **URL:** [Watch on YouTube](https://www.youtube.com/watch?v=cdsFwGDVzpg&list=PL6W8uoQQ2c63f469AyV78np0rbxRFppkx&index=32)
+
+### Topics Covered
+- Producer Consumer Problem
