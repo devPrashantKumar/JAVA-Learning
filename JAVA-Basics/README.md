@@ -133,3 +133,8 @@
 
 ### Topics Covered
 - Producer Consumer Problem
+- stop, suspend and resume Thread method deprecated
+- join
+- thread priority
+- Daemon Thread
+- difference b/w user thread and daemon thread
