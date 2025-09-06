@@ -138,3 +138,18 @@
 - thread priority
 - Daemon Thread
 - difference b/w user thread and daemon thread
+
+---
+## Video 32 :
+- **Title:** 32. Locks and Condition | Java Multithreading Part4 | Reentrant, ReadWrite, Stamped & Semaphore Lock
+- **URL:** [Watch on YouTube](https://www.youtube.com/watch?v=DPob5NLzKFI&list=PL6W8uoQQ2c63f469AyV78np0rbxRFppkx&index=33)
+
+### Topics Covered
+- Locks and Semaphores
+  - Reentrant lock
+  - ReadWriteLock
+  - StampedLock
+  - Semaphore
+- inter-thread communication using await, signal and signalAll over condition object
+
+---
