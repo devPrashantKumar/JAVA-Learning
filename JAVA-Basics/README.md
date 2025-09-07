@@ -150,6 +150,47 @@
   - ReadWriteLock
   - StampedLock
   - Semaphore
+  - synchronized
+- optimistic locking without lock
 - inter-thread communication using await, signal and signalAll over condition object
+
+---
+## Video 33 :
+- **Title:** 33. Lock-Free Concurrency | Compare-and-Swap | Atomic & Volatile Variables | Multithreading Part5
+- **URL:** [Watch on YouTube](https://www.youtube.com/watch?v=JGb4qNEBW6Q&list=PL6W8uoQQ2c63f469AyV78np0rbxRFppkx&index=34)
+
+### Topics Covered
+- optimistic locking without lock using CAS technique
+- Atomic Variables
+  - AtomicInteger
+  - AtomicBoolean
+  - AtomicLong
+  - AtomicReference
+- Volatile keyword
+- Thread Safe Collections
+
+---
+## Video 34 :
+- **Title:** 34. Thread Pools in Java | ThreadPoolExecutor Framework | Multithreading Part6
+- **URL:** [Watch on YouTube](https://www.youtube.com/watch?v=ZUWs2U71vvk&list=PL6W8uoQQ2c63f469AyV78np0rbxRFppkx&index=35)
+
+### Topics Covered
+- Thread Pool - what and why
+- Executor Framework Hierarchy
+- Thread Pool Executor constructor parameters and their usage
+  - corePoolSize
+  - maximumPoolSize
+  - keepAliveTime
+  - TimeUnit
+  - BlockingQueue<Runnable>
+  - RejectedExecutionHandler
+- Lifecycle of ThreadPoolExecutor
+  - running
+  - shutdown
+  - stop (shutdownNow)
+  - terminated
+- ThreadPoolExecutor Example
+- max number of threads we can create in thread pool (interview question)
+- max thread formula and factors
 
 ---
