@@ -194,3 +194,10 @@
 - max thread formula and factors
 
 ---
+## Video 36 :
+- **Title:** 36. Java ForkJoinPool || WorkStealingPool || FixedThreadPool || CachedThreadPool || SingleThreadPool
+- **URL:** [Watch on YouTube](https://www.youtube.com/watch?v=VlfVyz-QG60&list=PL6W8uoQQ2c63f469AyV78np0rbxRFppkx&index=37)
+
+### Topics Covered
+
+---
