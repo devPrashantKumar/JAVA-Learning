@@ -93,6 +93,22 @@
 
 
 ---
+## Video 7 :
+- **Title:** 7. Java Methods in Depth | Different Types of Methods with Examples
+- **URL:** [Watch on YouTube](https://youtu.be/Lqan4AF9wzA?si=bp1KWhoYZ2nYoE-Z)
+
+### Topics Covered
+- Access Specifiers
+  - Private
+  - Public
+  - Protected
+  - Default
+- Static methods in java
+  - inheritance
+  - method overriding (not possible), method hiding is possible (follows compile time binding)
+  - 
+
+---
 ## Video 21 :
 - **Title:** 21. Control Flow Statements in Java | Decision Making, Looping and Branching Statements
 - **URL:** [Watch on YouTube](https://www.youtube.com/watch?v=Z2B5CYMEWfc)
