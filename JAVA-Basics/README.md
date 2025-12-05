@@ -71,7 +71,25 @@
 - **URL:** [Watch on YouTube](https://youtu.be/NZ3qAfM8Ztw?si=-uSdSSoLYTyiVwHu)
 
 ### Topics Covered
-- DataType
+- 32 bit IEEE 764 standard to store float
+- 64 bit IEEE 764 standard to store long
+
+---
+## Video 6 :
+- **Title:** 6. Java Variables - Part2 | Reference/Non-Primitive Data Types in Depth
+- **URL:** [Watch on YouTube](https://youtu.be/1Ox0fyJuUVY?si=O1sdhN2uIifhXcy-)
+
+### Topics Covered
+- Reference DataType
+  - Class
+  - String 
+    - number of object created in string constant pool and Heap Memory
+    - why Strings are Immutable in nature
+  - Interface
+  - Array
+-vWrapper Classes
+  - Autoboxing
+  - Unboxing
 
 
 ---
