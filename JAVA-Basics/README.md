@@ -44,6 +44,37 @@
 - The rule is not a technical limitation — it’s a deliberate design choice to promote clarity, simplicity, and maintainability in Java projects.
 
 ---
+## Video 4 :
+- **Title:** 4. Java Variables - Part1 | Primitive Data Types in Depth
+- **URL:** [Watch on YouTube](https://youtu.be/Q6_jrvz-R7w?si=6PiL9AAOIbVBm8C_)
+
+### Topics Covered
+- DataType
+  - Primitive DataType
+  - Referenced DataType
+- negative byte, short, int, long stored as a signed 2's complement of its positive value
+- float and double stored as IEEE 764 value
+- type conversion
+  - lower to higher (implicit typecasting)
+  - higher to lower (explicit/forced typecasting)
+  - promotion during expression evaluation.
+- Kind of variables
+  - instance/member variable
+  - local variable
+  - Static variable
+  - Method parameter
+  - Constructor parameter
+
+---
+## Video 5 :
+- **Title:** 5. How FLOAT and DOUBLE Number Stored in Memory? | IEEE 754 Representation
+- **URL:** [Watch on YouTube](https://youtu.be/NZ3qAfM8Ztw?si=-uSdSSoLYTyiVwHu)
+
+### Topics Covered
+- DataType
+
+
+---
 ## Video 21 :
 - **Title:** 21. Control Flow Statements in Java | Decision Making, Looping and Branching Statements
 - **URL:** [Watch on YouTube](https://www.youtube.com/watch?v=Z2B5CYMEWfc)
