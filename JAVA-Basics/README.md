@@ -106,7 +106,7 @@
 - Static methods in java
   - inheritance
   - method overriding (not possible), method hiding is possible (follows compile time binding)
-  - 
+- final methods (can not be overridden in child class) 
 
 ---
 ## Video 21 :
