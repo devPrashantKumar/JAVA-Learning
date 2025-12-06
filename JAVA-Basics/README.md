@@ -109,6 +109,14 @@
 - final methods (can not be overridden in child class) 
 
 ---
+## Video 8 :
+- **Title:** 8. Java Constructor in Depth | Different Types of Constructor with Examples
+- **URL:** [Watch on YouTube](https://youtu.be/_hHtmSt5dSg?si=9ZcJGWkaddgO74yX)
+
+### Topics Covered
+- construct can not be inherited, static, final and abstract.
+
+---
 ## Video 21 :
 - **Title:** 21. Control Flow Statements in Java | Decision Making, Looping and Branching Statements
 - **URL:** [Watch on YouTube](https://www.youtube.com/watch?v=Z2B5CYMEWfc)
