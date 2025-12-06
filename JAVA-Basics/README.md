@@ -138,6 +138,23 @@
   - G1 GC
 
 ---
+## Video 10 :
+- **Title:** 10. Java Classes in Depth - Part1 | Nested Class, Concrete, Abstract, Object, Super and Sub Class
+- **URL:** [Watch on YouTube](https://youtu.be/aecJeZgl__4?si=Sd4fPk9De7GoKJPE)
+
+### Topics Covered
+- Concrete Class
+- Abstract Class
+- Super class and Sub class
+- Object class
+- Nested Class
+  - static Nested Class
+  - non-static nested class
+    - member inner class
+    - local inner class
+    - anonymous inner class
+
+---
 ## Video 21 :
 - **Title:** 21. Control Flow Statements in Java | Decision Making, Looping and Branching Statements
 - **URL:** [Watch on YouTube](https://www.youtube.com/watch?v=Z2B5CYMEWfc)
