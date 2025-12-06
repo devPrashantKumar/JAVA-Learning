@@ -87,7 +87,7 @@
     - why Strings are Immutable in nature
   - Interface
   - Array
--vWrapper Classes
+- Wrapper Classes
   - Autoboxing
   - Unboxing
 
@@ -115,6 +115,27 @@
 
 ### Topics Covered
 - construct can not be inherited, static, final and abstract.
+
+---
+## Video 9 :
+- **Title:** 9. Java Memory Management and Garbage Collection in Depth
+- **URL:** [Watch on YouTube](https://youtu.be/vz6vSZRuS2M?si=DuzfrjrWsThC2PQR)
+
+### Topics Covered
+- type of memory area java create
+  - Stack (each thread have separate stack memory)
+  - Heap
+-Heap memory
+  - Young Generation (eden, s0,s1) -> Minor GC runs more frequently
+  - Old Generation -> Major GC runs less frequently
+- Garbage Collector Algorithms
+  - Mark & Sweep Algo
+  - Mark & Sweep with Compact Memory Algo
+- Types of Garbage Collector
+  - Serial GC
+  - Parallel GC
+  - Concurrent Mark & Sweep GC
+  - G1 GC
 
 ---
 ## Video 21 :
