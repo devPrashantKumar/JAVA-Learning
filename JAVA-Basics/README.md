@@ -155,6 +155,30 @@
     - anonymous inner class
 
 ---
+## Video 11 :
+- **Title:** 11. Java Generic Classes | Java Classes in Depth - Part2
+- **URL:** [Watch on YouTube](https://youtu.be/NCx_ABybp2o?si=TsR25cQ8-eT62WF-)
+
+### Topics Covered
+- Generic Classes
+- Inheritance in Generic classes
+- Generic Methods
+- raw type generics
+- bounded generics
+  - upper bound
+  - multi bound
+- bounded wildcard
+  - upper bound
+  - lower bound
+  - multi bound
+- use case difference b/w wildcard and generics
+- Type eraser
+  - Generic class eraser
+  - Generic class bounded type eraser
+  - Generic method type eraser
+  - Generic method bounded type eraser
+
+---
 ## Video 21 :
 - **Title:** 21. Control Flow Statements in Java | Decision Making, Looping and Branching Statements
 - **URL:** [Watch on YouTube](https://www.youtube.com/watch?v=Z2B5CYMEWfc)
