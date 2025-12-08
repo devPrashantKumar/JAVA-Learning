@@ -91,7 +91,6 @@
   - Autoboxing
   - Unboxing
 
-
 ---
 ## Video 7 :
 - **Title:** 7. Java Methods in Depth | Different Types of Methods with Examples
@@ -177,6 +176,20 @@
   - Generic class bounded type eraser
   - Generic method type eraser
   - Generic method bounded type eraser
+
+---
+## Video 12 :
+- **Title:** 12. Java Enum, POJO and Final Classes Explained with Examples | Java Classes in Depth - Part3
+- **URL:** [Watch on YouTube](https://youtu.be/zNCtAAqxjT0?si=JbT3vev-3eA6mCL0)
+
+### Topics Covered
+- Enums
+  - common functions (Values, ordinal valueOf, name)
+- Enum with custom values
+- Method override with constant
+- Enum with abstract method
+- Enum implement interface
+- benefits of enums over static final constants
 
 ---
 ## Video 21 :
