@@ -190,6 +190,20 @@
 - Enum with abstract method
 - Enum implement interface
 - benefits of enums over static final constants
+- Final class
+
+---
+## Video 13 :
+- **Title:** 13. Java Singleton and Immutable Class Explained with Examples | Java Classes in Depth - Part4
+- **URL:** [Watch on YouTube](https://youtu.be/SqDbZOjW1uM?si=haUHUBNdThm6x0V5)
+
+### Topics Covered
+- Eager Initialization
+- Lazy Initialization
+  - synchronization block
+  - double check lock (with voitile due to memory l1 cache issue)
+  - Bill Pugh solution (using nested class)
+  - Enum Singleton
 
 ---
 ## Video 21 :
