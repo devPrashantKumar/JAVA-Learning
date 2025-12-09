@@ -208,6 +208,26 @@
 - Immutable Class
 
 ---
+## Video 14 :
+- **Title:** 14. Java Interface in Depth - Part1
+- **URL:** [Watch on YouTube](https://youtu.be/aj3SLuDkGWg?si=rSm2pwaZ1xBxVAhJ)
+
+### Topics Covered
+- Interface Basics
+- Nested Interface
+  - interface inside interface
+  - interface inside class
+- difference b/w interface and abstract class
+
+---
+## Video 15 :
+- **Title:** 15. Default, Static & Private Method in Interface - Java8 and Java9 features | Java Interfaces Part2
+- **URL:** [Watch on YouTube](https://youtu.be/ZFPajbsXIwM?si=wmX9JtfndU0cucR-)
+
+### Topics Covered
+- 
+
+---
 ## Video 21 :
 - **Title:** 21. Control Flow Statements in Java | Decision Making, Looping and Branching Statements
 - **URL:** [Watch on YouTube](https://www.youtube.com/watch?v=Z2B5CYMEWfc)
