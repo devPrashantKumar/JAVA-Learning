@@ -198,12 +198,14 @@
 - **URL:** [Watch on YouTube](https://youtu.be/SqDbZOjW1uM?si=haUHUBNdThm6x0V5)
 
 ### Topics Covered
-- Eager Initialization
-- Lazy Initialization
-  - synchronization block
-  - double check lock (with voitile due to memory l1 cache issue)
-  - Bill Pugh solution (using nested class)
-  - Enum Singleton
+- Singleton Class
+  - Eager Initialization
+  - Lazy Initialization
+    - synchronization block
+    - double check lock (with voitile due to memory l1 cache issue)
+    - Bill Pugh solution (using nested class)
+    - Enum Singleton
+- Immutable Class
 
 ---
 ## Video 21 :
