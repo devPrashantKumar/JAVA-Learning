@@ -228,8 +228,58 @@
 - 
 
 ---
+## Video 16 :
+- **Title:** 15. Default, Static & Private Method in Interface - Java8 and Java9 features | Java Interfaces Part2
+- **URL:** [Watch on YouTube](https://youtu.be/ZFPajbsXIwM?si=wmX9JtfndU0cucR-)
+
+### Topics Covered
+- 
+
+---
+## Video 17 :
+- **Title:** 15. Default, Static & Private Method in Interface - Java8 and Java9 features | Java Interfaces Part2
+- **URL:** [Watch on YouTube](https://youtu.be/ZFPajbsXIwM?si=wmX9JtfndU0cucR-)
+
+### Topics Covered
+- 
+
+---
+## Video 18 :
+- **Title:** 15. Default, Static & Private Method in Interface - Java8 and Java9 features | Java Interfaces Part2
+- **URL:** [Watch on YouTube](https://youtu.be/ZFPajbsXIwM?si=wmX9JtfndU0cucR-)
+
+### Topics Covered
+- 
+
+---
+## Video 19 :
+- **Title:** 19. Exception Handling in Java with Examples
+- **URL:** [Watch on YouTube](https://youtu.be/tw4wWCsGNe4?si=97k7ns0PxvgiuoYV)
+
+### Topics Covered
+- stack trace structure and order
+- exception hierarchy 
+- difference b/w exception and error
+- difference b/w checked and unchecked exception
+- exception handling
+  - using throws
+  - using try/catch/finally
+- throw exception using "throw"
+- custom/user-defined exceptions
+
+---
+## Video 20 :
+- **Title:** 19. Exception Handling in Java with Examples
+- **URL:** [Watch on YouTube](https://youtu.be/tw4wWCsGNe4?si=97k7ns0PxvgiuoYV)
+
+### Topics Covered
+- bitwise not operator
+- unsigned right shift
+- operator precedence
+
+---
 ## Video 21 :
-- **Title:** 21. Control Flow Statements in Java | Decision Making, Looping and Branching Statements
+- **Title:** 21. Control Flow Statements in Java | Decision-Making, Looping and Branching Statements
 - **URL:** [Watch on YouTube](https://www.youtube.com/watch?v=Z2B5CYMEWfc)
 
 ### Topics Covered
