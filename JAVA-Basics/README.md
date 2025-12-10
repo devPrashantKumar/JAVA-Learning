@@ -202,7 +202,7 @@
   - Eager Initialization
   - Lazy Initialization
     - synchronization block
-    - double check lock (with voitile due to memory l1 cache issue)
+    - double check lock (with volatile due to memory l1 cache issue)
     - Bill Pugh solution (using nested class)
     - Enum Singleton
 - Immutable Class
