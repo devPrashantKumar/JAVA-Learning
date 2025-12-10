@@ -113,7 +113,7 @@
 - **URL:** [Watch on YouTube](https://youtu.be/_hHtmSt5dSg?si=9ZcJGWkaddgO74yX)
 
 ### Topics Covered
-- construct can not be inherited, static, final and abstract.
+- constructor can not be inherited, static, final and abstract.
 
 ---
 ## Video 9 :
