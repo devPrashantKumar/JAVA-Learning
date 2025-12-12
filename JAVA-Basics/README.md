@@ -347,6 +347,16 @@
 - Parallel Stream
 
 ---
+## Video 29 :
+- **Title:** 29. Multithreading and Concurrency in Java: Part1 | Threads, Process and their Memory Model in depth
+- **URL:** [Watch on YouTube](https://youtu.be/TpYIcJN9EV8?si=1h282sHl1DSYm5Br)
+
+### Topics Covered
+- Process and Thread
+- Process full life cycle (stack, register, PC, code segment, data segment, heap, context switching and thread)
+- Multithreading
+- Multithreading vs Multitasking
+---
 ## Video 30 :
 - **Title:** 30. Thread Creation, Thread Lifecycle and Inter-Thread Communication | Multithreading in Java: Part2
 - **URL:** [Watch on YouTube](https://www.youtube.com/watch?v=AYiE7_loIsE&list=PL6W8uoQQ2c63f469AyV78np0rbxRFppkx&index=31)
@@ -365,6 +375,7 @@
   - Terminated
 - Monitor/Intrinsic lock
 - use of wait and notifyAll in Inter-Thread communication
+- Producer Consumer Problem
 
 ---
 ## Video 31 :
