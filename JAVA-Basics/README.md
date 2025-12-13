@@ -356,6 +356,7 @@
 - Process full life cycle (stack, register, PC, code segment, data segment, heap, context switching and thread)
 - Multithreading
 - Multithreading vs Multitasking
+
 ---
 ## Video 30 :
 - **Title:** 30. Thread Creation, Thread Lifecycle and Inter-Thread Communication | Multithreading in Java: Part2
@@ -418,7 +419,7 @@
   - AtomicLong
   - AtomicReference
 - Volatile keyword
-- Thread Safe Collections
+- Thread Safe Collections (Important)
 
 ---
 ## Video 34 :
@@ -442,7 +443,25 @@
   - terminated
 - ThreadPoolExecutor Example
 - max number of threads we can create in thread pool (interview question)
-- max thread formula and factors
+- max thread formula and factor
+
+---
+## Video 35 :
+- **Title:** 35. Java8 CompletableFuture | Future and Callable in Java | Multithreading in Java - Part7
+- **URL:** [Watch on YouTube](https://youtu.be/SFwCiYwr3yQ?si=r4Em4aOWakNt7_e0)
+
+### Topics Covered
+- Future
+- executer.submit
+  - runnable
+  - runnable, T
+  - callable
+- CompletableFuture
+  - CompletableFuture.supplyAsync
+    - .thenApply and .thenApplyAsync
+    - .thenCompose and .thenComposeAsync
+    - .thenAccept and .thenAcceptAsync
+    - .thenCombine and .thenCombineAsync
 
 ---
 ## Video 36 :
