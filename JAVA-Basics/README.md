@@ -466,8 +466,34 @@
 ---
 ## Video 36 :
 - **Title:** 36. Java ForkJoinPool || WorkStealingPool || FixedThreadPool || CachedThreadPool || SingleThreadPool
-- **URL:** [Watch on YouTube](https://www.youtube.com/watch?v=VlfVyz-QG60&list=PL6W8uoQQ2c63f469AyV78np0rbxRFppkx&index=37)
+- **URL:** [Watch on YouTube](https://youtu.be/VlfVyz-QG60?si=05_xoIq1mGzBOMsT)
 
 ### Topics Covered
+- Executers.newFixedThreadPool()
+- Executers.newCachedThreadPool()
+- Executers.newWorkStealingPool()
+- ForkJoinPool.commonPool()
+  - recursiveTask
+  - recursiveAction
+
+---
+## Video 37 :
+- **Title:** 37. Java ScheduledThreadPoolExecutor || Shutdown Vs AwaitTermination || Multithreading in Java
+- **URL:** [Watch on YouTube](https://youtu.be/PR1YkZWAH1E?si=LTLipvZ2NP-Kfqgx)
+
+### Topics Covered
+- difference b/w shutdown(), await termination() and shutdownNow()
+- Executers.newScheduledThreadPool()
+  - schedule
+  - scheduleAtFixedRate
+  - scheduleWithFixedDelay
+
+---
+## Video 38 :
+- **Title:** 37. Java ScheduledThreadPoolExecutor || Shutdown Vs AwaitTermination || Multithreading in Java
+- **URL:** [Watch on YouTube](https://youtu.be/PR1YkZWAH1E?si=LTLipvZ2NP-Kfqgx)
+
+### Topics Covered
+- di
 
 ---
