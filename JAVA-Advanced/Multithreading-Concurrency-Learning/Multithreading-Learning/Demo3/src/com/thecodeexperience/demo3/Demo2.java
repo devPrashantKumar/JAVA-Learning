@@ -1,10 +1,10 @@
-package com.thecodeexperience;
+package com.thecodeexperience.demo3;
 
-import com.thecodeexperience.repository.EmployeeRepository;
-import com.thecodeexperience.repository.impl.EmployeeRepositoryImpl1;
-import com.thecodeexperience.repository.impl.EmployeeRepositoryImpl2;
-import com.thecodeexperience.repository.impl.EmployeeRepositoryImpl3;
-import com.thecodeexperience.service.impl.EmployeeServiceImpl;
+import com.thecodeexperience.demo3.repository.EmployeeRepository;
+import com.thecodeexperience.demo3.repository.impl.EmployeeRepositoryImpl1;
+import com.thecodeexperience.demo3.repository.impl.EmployeeRepositoryImpl2;
+import com.thecodeexperience.demo3.repository.impl.EmployeeRepositoryImpl3;
+import com.thecodeexperience.demo3.service.impl.EmployeeServiceImpl;
 
 
 public class Demo2 {

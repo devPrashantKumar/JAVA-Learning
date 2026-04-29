@@ -1,4 +1,4 @@
-package com.thecodeexperience.repository;
+package com.thecodeexperience.demo3.repository;
 
 
 public interface EmployeeRepository {

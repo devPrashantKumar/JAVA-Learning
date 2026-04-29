@@ -1,4 +1,4 @@
-package com.thecodeexperience.entity;
+package com.thecodeexperience.demo3.entity;
 
 
 public class Employee {

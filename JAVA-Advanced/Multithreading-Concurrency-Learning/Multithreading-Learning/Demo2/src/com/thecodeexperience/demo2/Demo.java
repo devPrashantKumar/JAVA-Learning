@@ -1,10 +1,10 @@
-package com.thecodeexperience;
+package com.thecodeexperience.demo2;
 
-import com.thecodeexperience.repository.EmployeeRepository;
-import com.thecodeexperience.repository.impl.EmployeeRepositoryImpl1;
-import com.thecodeexperience.repository.impl.EmployeeRepositoryImpl2;
-import com.thecodeexperience.repository.impl.EmployeeRepositoryImpl3;
-import com.thecodeexperience.service.impl.EmployeeServiceImpl;
+import com.thecodeexperience.demo2.repository.EmployeeRepository;
+import com.thecodeexperience.demo2.repository.impl.EmployeeRepositoryImpl1;
+import com.thecodeexperience.demo2.repository.impl.EmployeeRepositoryImpl2;
+import com.thecodeexperience.demo2.repository.impl.EmployeeRepositoryImpl3;
+import com.thecodeexperience.demo2.service.impl.EmployeeServiceImpl;
 
 
 public class Demo {
@@ -19,19 +19,17 @@ public class Demo {
 		for (int i = 0; i < employeeRepositories.length; i++) {
 			employeeServiceImpl = new EmployeeServiceImpl(employeeRepositories[i]);
 			employeeServices[i] = new Thread(employeeServiceImpl);
-			System.out.println("Just after using new keyword -> Name: " + employeeServices[i].getName() + ", isAlive: " + employeeServices[i].isAlive() + ", state: " + employeeServices[i].getState());
 			employeeServices[i].start();
-			System.out.println("Just after using start method -> Name: " + employeeServices[i].getName() + ", isAlive: " + employeeServices[i].isAlive() + ", state: " + employeeServices[i].getState());
 		}
 		
 		for (int i = 0; i < employeeServices.length; i++) {
 			try {
 				employeeServices[i].join();
-				System.out.println("Just after using join method -> Name: " + employeeServices[i].getName() + ", isAlive: " + employeeServices[i].isAlive() + ", state: " + employeeServices[i].getState());
 			} catch (InterruptedException e) {
 				e.printStackTrace();
 			}
 		}
+
 		System.out.println("Completed in " + (System.currentTimeMillis() - startTime) + " milliseconds");
 		System.out.println(Thread.currentThread().getName() + " finished fetching");
 	}

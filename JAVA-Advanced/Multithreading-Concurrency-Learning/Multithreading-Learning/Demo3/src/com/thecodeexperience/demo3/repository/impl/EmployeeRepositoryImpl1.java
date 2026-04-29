@@ -1,10 +1,10 @@
-package com.thecodeexperience.repository.impl;
+package com.thecodeexperience.demo3.repository.impl;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.thecodeexperience.entity.Employee;
-import com.thecodeexperience.repository.EmployeeRepository;
+import com.thecodeexperience.demo3.entity.Employee;
+import com.thecodeexperience.demo3.repository.EmployeeRepository;
 
 
 public class EmployeeRepositoryImpl1 implements EmployeeRepository {

@@ -1,6 +1,6 @@
-package com.thecodeexperience.service.impl;
+package com.thecodeexperience.demo2.service.impl;
 
-import com.thecodeexperience.repository.EmployeeRepository;
+import com.thecodeexperience.demo2.repository.EmployeeRepository;
 
 
 public class EmployeeServiceImpl implements Runnable {
