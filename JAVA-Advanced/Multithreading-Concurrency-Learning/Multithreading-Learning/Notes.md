@@ -1,5 +1,5 @@
 ### Demo 00
-- Simple JAVA Project created in 2 ways.
+- Simple JAVA Project
 - **Demo1** - creating a EmployeeServiceImpl object again and again and asigning it to reference variable
 
 ### Demo 01
