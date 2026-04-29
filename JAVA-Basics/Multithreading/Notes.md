@@ -22,3 +22,6 @@
 
 ### SingleProducerConsumerProblemPractice
 - SingleProducerConsumerProblemPractice
+
+### MutithreadingLearning
+- **MonitorLocksExample** -  in case of synchronization, Threads takes MonitorLock on the object, means other thread can not perform operation on that object.
