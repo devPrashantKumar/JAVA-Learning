@@ -33,3 +33,6 @@
 - **MyThreadByExtendingThreadClass** - Thread implementation by extending "Thread" class
 - **MyThreadByImplementingRunnable** - Thread Implementation by implementing "Runnable" Interface
 - **MonitorLocksExample** -  in case of synchronization, Threads takes MonitorLock on the object, means other thread can not perform operation on that object.
+
+### ReentrantLockLearning
+multi object locking using Reentrant Lock
