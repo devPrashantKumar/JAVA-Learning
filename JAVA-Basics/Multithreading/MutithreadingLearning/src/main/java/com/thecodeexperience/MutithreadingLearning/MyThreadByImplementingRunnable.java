@@ -23,7 +23,7 @@ public class MyThreadByImplementingRunnable implements Runnable {
 
         Thread t3 = new Thread(new MyThreadByImplementingRunnable());
         System.out.println("Current Thread - "+Thread.currentThread().getName());
-        t3.run();
+        t3.start();
 
     }
 }
