@@ -13,7 +13,7 @@ public class SharedResource {
     }
 
     public synchronized void consume() throws InterruptedException {
-       while(sharedBuffer.isEmpty()){
+       while(sharedBuffer.isEmpty()){ // why there is while instead of if
            System.out.println("buffer is empty, consumer is waiting");
            wait();
        }
@@ -22,7 +22,7 @@ public class SharedResource {
     }
 
     public synchronized void produce(int data) throws InterruptedException {
-        while(sharedBuffer.size()==bufferSize){
+        while(sharedBuffer.size()==bufferSize){  // why there is while instead of if
             System.out.println("buffer is full, producer is waiting");
             wait();
         }

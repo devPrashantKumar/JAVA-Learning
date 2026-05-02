@@ -23,6 +23,8 @@
 
 ### Demo 05
 - Daemon Thread.
+- **Demo1** - when other thread is Platform Thread
+- **Demo2** - when other Thread is Daemon Thread
 
 ### SingleProducerConsumerProblemPractice
 - SingleProducerConsumerProblemPractice

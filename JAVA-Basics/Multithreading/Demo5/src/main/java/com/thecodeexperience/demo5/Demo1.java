@@ -3,7 +3,7 @@ package com.thecodeexperience.demo5;
 import com.thecodeexperience.demo5.utility.MyThread;
 
 
-public class Demo extends Thread {
+public class Demo1 extends Thread {
 	public static void main(String[] args) {
 		Thread thread = new MyThread();
 		thread.start();
