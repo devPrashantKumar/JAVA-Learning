@@ -7,7 +7,7 @@ import com.thecodeexperience.demo3.repository.impl.EmployeeRepositoryImpl3;
 import com.thecodeexperience.demo3.service.impl.EmployeeServiceImpl;
 
 
-public class Demo {
+public class Demo1 {
 	public static void main(String[] args) {
 		System.out.println(Thread.currentThread().getName() + " started fetching");
 		EmployeeServiceImpl employeeServiceImpl = null;

@@ -5,7 +5,7 @@ import com.thecodeexperience.demo4.service.impl.CounterServiceImpl2;
 
 
 public class Demo3 extends Thread {
-	private static final int NUM_THREADS = 2;
+	private static final int NUM_THREADS = 20;
 	private static final int NUM_INCREMENTS = 1000;
 	private CounterService counterUtil;
 

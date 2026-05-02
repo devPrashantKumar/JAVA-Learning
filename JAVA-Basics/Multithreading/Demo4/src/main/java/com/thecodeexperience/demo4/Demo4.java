@@ -1,15 +1,16 @@
 package com.thecodeexperience.demo4;
 
 import com.thecodeexperience.demo4.service.CounterService;
-import com.thecodeexperience.demo4.service.impl.CounterServiceImpl;
+import com.thecodeexperience.demo4.service.impl.CounterServiceImpl2;
+import com.thecodeexperience.demo4.service.impl.CounterServiceImpl3;
 
 
-public class Demo2 extends Thread {
+public class Demo4 extends Thread {
 	private static final int NUM_THREADS = 20;
 	private static final int NUM_INCREMENTS = 1000;
 	private CounterService counterUtil;
 
-	public Demo2(CounterService counterUtil) {
+	public Demo4(CounterService counterUtil) {
 		this.counterUtil = counterUtil;
 	}
 
@@ -17,9 +18,9 @@ public class Demo2 extends Thread {
 		CounterService counterUtil = null;
 		do {
 			Thread[] threads = new Thread[NUM_THREADS];
-			counterUtil = new CounterServiceImpl();
+			counterUtil = new CounterServiceImpl3();
 			for (int i = 0; i < NUM_THREADS; ++i) {
-				threads[i] = new Demo2(counterUtil);
+				threads[i] = new Demo4(counterUtil);
 				threads[i].start();
 			}
 			for (int i = 0; i < NUM_THREADS; ++i) {
