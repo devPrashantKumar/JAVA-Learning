@@ -13,6 +13,7 @@ public class ComputeSubTask extends RecursiveTask<Integer> {
 
     @Override
     protected Integer compute() {
+        System.out.printf("Task running on thread: %s%n", Thread.currentThread().getName());
         if(end-start<=4){
             int totalSum=0;
             for(int i=start;i<=end;i++){
