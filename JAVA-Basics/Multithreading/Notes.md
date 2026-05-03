@@ -1,4 +1,4 @@
-### Demo 00
+**### Demo 00
 - Simple JAVA Project
 - **Demo1** - creating a EmployeeServiceImpl object again and again and asigning it to reference variable
 
@@ -45,3 +45,21 @@ optimisticRead using stamped lock
 
 ### SemaphoreLockLearning
 - number of thread going in critical section parallel control by Semaphore permits
+
+###  ConditionLearning  - Condition (Inter-thread Communication)
+When using synchronized for locking, we use wait() and notify() methods for inter-thread communication.
+However, these methods cannot be used with explicit/custom locks like ReentrantLock.
+For such cases, Java provides the Condition interface.
+
+👉 A Condition works with a Lock and provides methods:
+
+await() → similar to wait()
+signal() → similar to notify()
+signalAll() → similar to notifyAll()
+It also allows multiple condition queues per lock, making it more flexible than wait/notify.
+
+
+
+
+
+
