@@ -42,3 +42,6 @@ multi object locking using ReadWrite Lock
 
 ### StampedLockLearning
 optimisticRead using stamped lock
+
+### SemaphoreLockLearning
+- number of thread going in critical section parallel control by Semaphore permits

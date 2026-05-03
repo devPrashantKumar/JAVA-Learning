@@ -10,7 +10,7 @@ public class SharedResource {
         try{
             System.out.println("Optimistic lock is taken");
             a = 11;
-            //Thread.sleep(4000);
+            Thread.sleep(2000);
             if(lock.validate(stamp)){
                 System.out.println("perform update operation successfully "+Thread.currentThread().getName());
             }else{
@@ -33,8 +33,8 @@ public class SharedResource {
 
         }
         finally {
-            lock.unlockWrite(stamp);
             System.out.println("Lock released by: "+Thread.currentThread().getName());
+            lock.unlockWrite(stamp);
         }
     }
 

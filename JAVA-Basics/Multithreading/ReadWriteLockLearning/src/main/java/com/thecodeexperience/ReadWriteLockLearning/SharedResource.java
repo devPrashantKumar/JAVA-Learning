@@ -17,8 +17,8 @@ public class SharedResource {
 
         }
         finally {
-            lock.readLock().unlock();
             System.out.println("Lock released by: "+Thread.currentThread().getName());
+            lock.readLock().unlock();
         }
     }
 
@@ -33,8 +33,8 @@ public class SharedResource {
 
         }
         finally {
-            lock.writeLock().unlock();
             System.out.println("Lock released by: "+Thread.currentThread().getName());
+            lock.writeLock().unlock();
         }
     }
 
