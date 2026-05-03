@@ -39,3 +39,6 @@ multi object locking using Reentrant Lock
 
 ### ReadWriteLockLearning
 multi object locking using ReadWrite Lock
+
+### StampedLockLearning
+optimisticRead using stamped lock
