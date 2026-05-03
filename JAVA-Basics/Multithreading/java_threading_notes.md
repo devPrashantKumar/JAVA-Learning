@@ -59,3 +59,7 @@ stop, suspend and resume methods deprecated from "Thread" class , because they d
 ## JOIN
 
 when JOIN method is invoked on a thread object. current thread will be blocked and waits for the specific thread to finish
+
+---
+
+Atomic variables use **CAS (Compare and Swap)** Algorithm to avoid race condition.
